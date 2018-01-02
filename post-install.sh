@@ -43,7 +43,7 @@ echo 'Installation des outils en ligne de commande.'
 brew install wget coreutils 
 
 echo 'Installation des apps : utilitaires.'
-brew cask install 1password alfred istat-menus dropbox google-drive flux appcleaner carbon-copy-cloner selfcontrol onyx
+brew cask install 1password alfred istat-menus dropbox google-drive flux appcleaner carbon-copy-cloner selfcontrol onyx wireshark
 install "BetterSnapTool"
 install "Amphetamine"
 install "Daum Equation Editor"
